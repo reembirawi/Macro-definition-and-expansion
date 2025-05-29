@@ -1,0 +1,1 @@
+This project is based on the pseudocode and concepts presented in System Software: An Introduction to Systems Programming by Leland L. Beck (ISBN: 978-0201423006).
